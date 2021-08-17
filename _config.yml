@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "응다다"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile/eundada_img.jpg" # 프로필 이미지
   bio              : "프론트엔드 직무로 이직을 꿈꾸는 개발자입니다. <br> TIL, 프로젝트 공부 기록용"
   location         : "Republic of Korea"
   email            : "eundada064@gmail.com"
